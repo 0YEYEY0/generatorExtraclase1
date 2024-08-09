@@ -1,0 +1,1 @@
+# generatorExtraclase1
